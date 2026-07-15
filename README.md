@@ -37,7 +37,7 @@ MLP
 
 ## Accuracy
 
-Test Accuracy: 80.54% 
+Test Accuracy: 81.67 % 
 
 ## About Files 
 
