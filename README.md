@@ -32,7 +32,8 @@ MLP
 
 ## Data
 
-- i used "student-lifestyle-and-stress" dataset from kaggle 
+- Dataset Source : Kaggle 
+- Dataset License : CC0: Public Domain
 - Dataset Link: https://www.kaggle.com/datasets/sridevilavanyacse/student-lifestyle-and-stress-prediction-dataset
 
 ## Accuracy
